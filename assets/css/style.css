@@ -1,0 +1,63 @@
+.navbar-brand img
+{
+	border-radius: 25px;
+	width : 50%;
+}
+
+nav
+{
+	padding:px !important;
+}
+
+.nav-links
+{
+	padding: 2rem !important;
+	font-weight: bold;
+	/*color: black !important;*/
+}
+
+.carousel-item img
+{
+	max-height: 80vh;
+	max-width: 100vw;
+
+}
+
+.carousel-item img
+{
+	width: 100% !important;
+}
+
+body {
+	background-color: #20202A;
+}
+
+.bg-theme{
+	background-color: #20202A;
+}
+
+.bg-theme a{
+	
+	color:#d1d1dd !important;
+}
+
+.bg-white{
+	background-color: #fff;
+}
+
+.text-theme-light{
+	color:#66888b !important;
+}
+
+.icon{
+	font-size: 32px;
+}
+
+.polaroid{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn-login{
+	border-radius: 0;
+	padding: 10px 45px;
+}
